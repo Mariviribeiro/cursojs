@@ -1,0 +1,12 @@
+ body {
+    background-color: #d4a276; /* backgroud-color é a propriedade da cor do plano de fundo */
+    color: #000; /* color é a propriedade da cor do texto */
+ }  
+h2 {
+    color: #444;
+    font-size: 46px;
+    text-decoration: italic;
+        }
+.font-20px {
+    font-size: 40px;
+}
